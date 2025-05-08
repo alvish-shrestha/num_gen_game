@@ -149,7 +149,7 @@ class _RandomNumGenGameState extends State<RandomNumGenGame> {
                       ),
                       child: const Text(
                         'Play Again',
-                        style: TextStyle(fontSize: 18),
+                        style: TextStyle(fontSize: 19),
                       ),
                     ),
                   ],
