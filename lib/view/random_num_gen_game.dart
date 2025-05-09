@@ -148,7 +148,7 @@ class _RandomNumGenGameState extends State<RandomNumGenGame> {
                         backgroundColor: Colors.green,
                       ),
                       child: const Text(
-                        'Play Again',
+                        "Reset",
                         style: TextStyle(fontSize: 18),
                       ),
                     ),
